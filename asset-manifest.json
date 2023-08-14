@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formx/static/css/main.b25bbc7a.css",
+    "main.js": "/formx/static/js/main.5e7c57cd.js",
+    "static/js/787.bc7d429a.chunk.js": "/formx/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/formx/index.html",
+    "main.b25bbc7a.css.map": "/formx/static/css/main.b25bbc7a.css.map",
+    "main.5e7c57cd.js.map": "/formx/static/js/main.5e7c57cd.js.map",
+    "787.bc7d429a.chunk.js.map": "/formx/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25bbc7a.css",
+    "static/js/main.5e7c57cd.js"
+  ]
+}
